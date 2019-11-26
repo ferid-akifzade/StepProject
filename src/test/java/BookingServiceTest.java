@@ -1,9 +1,8 @@
-package service;
-
 import  dao.BookingDAO;
 import  libs.Booking;
 import  libs.Person;
 import org.junit.jupiter.api.Test;
+import service.BookingService;
 
 import java.io.IOException;
 import java.util.ArrayList;

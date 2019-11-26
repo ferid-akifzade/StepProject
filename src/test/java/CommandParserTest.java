@@ -1,5 +1,3 @@
-package controller;
-
 import controller.CommandParser;
 import org.junit.jupiter.api.Test;
 

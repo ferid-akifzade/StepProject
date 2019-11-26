@@ -1,7 +1,6 @@
-package service;
-
 import  libs.Flight;
 import org.junit.jupiter.api.Test;
+import service.FlightService;
 
 import java.io.IOException;
 
