@@ -83,7 +83,6 @@ public class LogsDAO implements DAO<Log>, Iterable<Log> {
 
             }
         }
-        //if (!databaseLog.isEmpty())
         database.addAll(databaseLog);
     }
 
